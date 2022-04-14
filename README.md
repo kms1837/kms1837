@@ -14,7 +14,7 @@
 
 <center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kms1837&layout=compact)](https://github.com/anuraghazra/kms1837)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kms1837&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
 
